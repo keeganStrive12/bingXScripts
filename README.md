@@ -1,9 +1,9 @@
 # bingXScripts
 Custom python scripts to place orders on BingX API. 
 
--Create BingX account: https://bingx.com/invite/DYLYZZCR (earn 2% rebate when using this link)
--Create API key make sure withdraw is DISABLED
--Add your API key on line 11 & 12. 
+  -Create BingX account: https://bingx.com/invite/DYLYZZCR (earn 2% rebate when using this link)
+  -Create API key make sure withdraw is DISABLED
+  -Add your API key on line 11 & 12. 
 
 Place UP TO 15 limit orders at once (scale/ladder) into positions. 
 
