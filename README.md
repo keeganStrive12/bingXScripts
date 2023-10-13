@@ -1,7 +1,7 @@
 # bingXScripts
 Custom python scripts to place orders on BingX API. 
 
-Place 15 limit orders at once (scale/ladder) into positions. 
+Place UP TO 15 limit orders at once (scale/ladder) into positions. 
 
 e.g
 - Enter pair: BTC-USDT
